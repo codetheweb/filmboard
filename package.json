@@ -56,7 +56,7 @@
     "sequelize": "^5.21.13",
     "sharp": "^0.26.2",
     "showdown": "^1.9.1",
-    "uuid": "^8.3.1",
+    "uuid": "^8.3.2",
     "webpack": "^4.43.0",
     "youtube-search": "^1.1.6",
     "ytdl-core": "^4.8.2"
