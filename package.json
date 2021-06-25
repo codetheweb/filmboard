@@ -19,7 +19,7 @@
     "@zeit/next-css": "^1.0.1",
     "@zeit/next-sass": "^1.0.1",
     "babel-polyfill": "^6.26.0",
-    "bulma": "^0.9.1",
+    "bulma": "^0.9.3",
     "cleave.js": "^1.6.0",
     "clone": "^2.1.2",
     "cors": "^2.8.5",
